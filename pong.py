@@ -1,5 +1,4 @@
 from tkinter import *
-# импортируем библиотеку random
 import random
  
 # Добавляем глобальные переменные
